@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=71B3EE&width=435&lines=Aesthetic+Coding+%E2%81%B7%E2%81%B7%E2%81%B7" alt="Typing SVG" /></a>
+
 ```css
 ┌[Ordeeper@git]-(~) whoami
 └> Pedro
