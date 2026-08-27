@@ -13,8 +13,7 @@ Ordeeper@GitHub
 Name: Pedro
 Languages: ["Php", "Python", "Typescript", "Dart", "C", "ShellScript", "Go", "Lua"]
 Interests: ["Programming", "UI/UX Design", "Linux", "CyberSecurity", "FOSS"]
-OS: NixOS
-Compositor/WM: Hyprland
+OS: NixOS & Hyprland
 ```
 
 </div>
